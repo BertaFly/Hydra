@@ -291,7 +291,7 @@ body {
 
   .product-card {
     flex: 0 1 24%;
-    height: auto;
+    height: 208px;
   }
 
   .product-card:nth-child(2n) {
